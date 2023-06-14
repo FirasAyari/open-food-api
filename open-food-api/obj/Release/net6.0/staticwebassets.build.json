@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lCGtKrHHpj4p4GWgCtyzqD3dKaBK3rVEDXgvrRcDf7A=",
+  "Source": "open-food-api",
+  "BasePath": "_content/open-food-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
