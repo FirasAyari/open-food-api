@@ -48,7 +48,7 @@ namespace open_food_api.Infrastructure.Services.Implementations
                     {
                         Version = "1.0",
                         Title = "API Documentation",
-                        Description = "Documentation for your API",
+                        Description = "Open Food API  ",
                         Contact = new OpenApiContact
                         {
                             Name = "Firas",

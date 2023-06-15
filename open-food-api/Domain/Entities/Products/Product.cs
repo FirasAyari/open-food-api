@@ -40,7 +40,7 @@ namespace open_food_api.Domain.Entities.Products
         [BsonElement("last_modified_t")]
         public int LastModifiedTime { get; set; }
 
-        [PropertyName("productName")]
+        [BsonElement("product_name")]
         public string ProductName { get; set; }
 
 
